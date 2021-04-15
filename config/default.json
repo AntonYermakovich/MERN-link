@@ -1,0 +1,6 @@
+{
+	"PORT": 5000,
+	"jwtSecret": "Secret string MERN app",
+	"MONGO_URI": "mongodb+srv://tony:<password>@cluster0.2372t.mongodb.net/Links?retryWrites=true&w=majority",
+	"baseUrl": "http://localhost:5000"
+}
